@@ -1,4 +1,4 @@
-NOTE: If you want to use the application to test your Bot, then please change the URL in the app settings or change the default app in: app > main > res > xml > preferences.xml  
+**NOTE:** If you want to use the application to test your Bot, then please change the URL in the app settings or change the default app in: app > main > res > xml > preferences.xml  
 
 ![Bot App Icon](pictures/icon.png?raw=true "Bot App Icon")
 
