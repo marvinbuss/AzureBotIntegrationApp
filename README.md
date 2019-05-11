@@ -26,7 +26,7 @@ An Android Package Kit (APK for short) is the package file format used by the An
 And now you're done, congratulations, you have your app. Just open it up from your smartphone and start a conversation with your bot.
 
 # Screenshots
-![1. Screenshot of Bot App](pictures/screenshot1.png =250x)
+![1. Screenshot of Bot App](./pictures/screenshot1.png =250x)
 ![2. Screenshot of Bot App](pictures/screenshot2.png | width=250 "2. Screenshot of Bot App")
 ![3. Screenshot of Bot App](pictures/screenshot3.png | width=250 "3. Screenshot of Bot App")
 
